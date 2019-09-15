@@ -7,8 +7,14 @@ The goal of this project is the lower the barrier of entry and move users away f
 
 
 ## Getting Started
-In the admin-console directory, launch the server by running
+
+[Optional]
+In the admin-console directory, install the Angular CLI in your local project by running
+
+    npm install @angular/cli
+
+Launch the server by running
 
     ng serve --open
 
-On your browser, open localhost:4200
+If necessary, open `localhost:4200` on your browser
