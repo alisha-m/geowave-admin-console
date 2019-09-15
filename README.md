@@ -7,9 +7,7 @@ The goal of this project is the lower the barrier of entry and move users away f
 
 
 ## Getting Started
-
-[Optional]
-In the admin-console directory, install the Angular CLI in your local project by running
+On your computer, install the Angular CLI in your local project by running.
 
     npm install @angular/cli
 
