@@ -9,7 +9,7 @@ The goal of this project is the lower the barrier of entry and move users away f
 ## Getting Started
 On your computer, install the Angular CLI in your local project by running.
 
-    npm install -g @angular/cli
+    npm install @angular/cli
 
 Launch the server by running
 
