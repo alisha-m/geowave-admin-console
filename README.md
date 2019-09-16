@@ -16,3 +16,9 @@ Launch the server by running
     ng serve --open
 
 If necessary, open `localhost:4200` on your browser
+
+## Trouble Shooting
+The project is running with node.js v10.16.3 and npm v6.9.0. 
+
+If  `ng serve --open` fails with `command not found: ng`, run `npm link @angular/cli` to link npm to ng.
+
