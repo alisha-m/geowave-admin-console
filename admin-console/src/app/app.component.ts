@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'admin-console';
+  select: string;
+
+  onStore() {
+    console.log('hello world'); 
+  }
 }
